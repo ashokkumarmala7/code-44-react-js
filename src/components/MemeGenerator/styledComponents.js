@@ -96,7 +96,7 @@ export const CustomSelect = styled.select`
   margin-bottom: 10px;
   outline: none;
 `
-export const CustomOption = styled.CustomOption`
+export const CustomOption = styled.option`
   font-size: 16px;
   padding: 12px 14px 12px 14px;
 `
